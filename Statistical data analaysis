@@ -1,0 +1,35 @@
+Statistical data analaysis
+
+- Hypothesis testing
+
+null hypothesis- there is relationship between training and placement
+alternate hypothesis- there is no effect of training on placement
+--------------------------------------------------------------------------------
+
+Population and sample
+
+-------------------------------------------------------------------------------
+
+1- Descriptive statistics (mean, median, mode, std, variance, covariance, skewness, normalization and standardization)
+
+2- inferential statiscs
+- parametric (here we make assumptions about the population- data should be normally distributed)
+
+---- t-test (comparing the means)
+---- z-test (comparing the means)
+---- anova test (compare the variance between two groups)
+---- f-test (compare the variance between two groups)
+---- Ab testing (facebook ad campaign)
+
+- non parametric (there will may or may not have assumption)
+
+---- chi square test (find out the relationship between two categorical variable)
+---- ks test (whehter a column is normally distributed of not)
+
+- Scipy (Scientific python)
+
+
+
+
+
+
